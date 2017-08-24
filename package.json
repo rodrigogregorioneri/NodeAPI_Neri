@@ -1,0 +1,19 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "API Portfolio Rodrigo Neri",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigogregorioneri/NodeAPI_Neri.git"
+  },
+  "author": "Rodrigo Gregorio Neri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigogregorioneri/NodeAPI_Neri/issues"
+  },
+  "homepage": "https://github.com/rodrigogregorioneri/NodeAPI_Neri#readme"
+}
