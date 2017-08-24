@@ -1,0 +1,13 @@
+# GITIGNONRE API NERI  
+
+# pastas
+
+node_modules
+
+
+
+# arquivos
+
+.package-lock.json
+
+

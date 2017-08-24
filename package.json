@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/rodrigogregorioneri/NodeAPI_Neri/issues"
   },
-  "homepage": "https://github.com/rodrigogregorioneri/NodeAPI_Neri#readme"
+  "homepage": "https://github.com/rodrigogregorioneri/NodeAPI_Neri#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mysql": "^2.14.1"
+  }
 }
